@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/penzardmitry/Desktop/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/penzardmitry/Desktop/Sunshine/app/build/intermediates/pre-dexed/debug/classes-9969b3d23e5814963c465fa424451e00f9a607e9.jar" />
+    </item>
+    <item
+        jar="/Users/penzardmitry/Desktop/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/penzardmitry/Desktop/Sunshine/app/build/intermediates/pre-dexed/debug/classes-978576d48c43bca52f8d8d76d183281863b538c3.jar" />
+    </item>
+    <item
+        jar="/Users/penzardmitry/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/penzardmitry/Desktop/Sunshine/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-63e7f84da1e4da1f23baa344b5248c3bd11f5be2.jar" />
+    </item>
+    <item
+        jar="/Users/penzardmitry/Desktop/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/penzardmitry/Desktop/Sunshine/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-b7436fc27a64d7eac9d01aff9bfe5bc20d07ae8a.jar" />
+    </item>
+
+</items>
